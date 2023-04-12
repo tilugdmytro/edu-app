@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/edu-app/static/css/main.7168e463.css",
+    "main.js": "/edu-app/static/js/main.9e4806dd.js",
+    "index.html": "/edu-app/index.html",
+    "main.7168e463.css.map": "/edu-app/static/css/main.7168e463.css.map",
+    "main.9e4806dd.js.map": "/edu-app/static/js/main.9e4806dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7168e463.css",
+    "static/js/main.9e4806dd.js"
+  ]
+}
